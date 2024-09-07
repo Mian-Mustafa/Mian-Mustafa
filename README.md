@@ -6,7 +6,7 @@ At the moment I am on the lookout for an internship position in which I can prac
 
 🛠️ Technologies & Tools
 
-Languages: C++, HTML , CSS
+Languages: C++, HTML , CSS , Bootstrap
 Tools: Git, Visual Studio, MS Office (Word, PowerPoint)
 
 📫 How to Reach Me
