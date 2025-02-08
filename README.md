@@ -1,25 +1,15 @@
-- Hi there, I'm Ghulam Mustafa 👋
-  🚀 About Me
-- A Computer Science student doing my second semester till this year is completed. All-round C++ and basic Object-Oriented Programming (OOP) background. Regarding application software, I have gained proficiency in MS Word and PowerPoint; I am proficient in preparing comprehensible and elaborate presentation and document.
+Hi there, I'm Ghulam Mustafa 👋
 
-At the moment I am on the lookout for an internship position in which I can practice as well as gain meaningful exposure to new technologies.
+🚀 About Me
+I am a Computer Science student in my fourth semester with a strong foundation in C++ (DSA + OOP) and a passion for frontend development and UI/UX design. I have experience designing interactive interfaces using Figma and developing software solutions that combine functionality with clean design. I am also proficient in preparing professional presentations and documents using MS Word and PowerPoint.
+Currently, I am seeking an internship position to apply my skills, gain meaningful exposure to new technologies, and contribute to exciting projects.
 
 🛠️ Technologies & Tools
 
-Languages: C++, HTML , CSS , Bootstrap
-Tools: Git, Visual Studio, MS Office (Word, PowerPoint)
-
+Languages: C++, HTML, CSS, Bootstrap
+Tools: Figma, Git, Visual Studio, MS Office (Word, PowerPoint)
 📫 How to Reach Me
 
 Email: [musa39078@gmail.com]
-
 🌱 Currently Learning
-
-I'm currently diving into [a new programming language, technology, or concept] and expanding my knowledge in [another area].
-
-
-
-<!---
-Mian-Mustafa/Mian-Mustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m currently expanding my skills in [a new programming language, technology, or concept].
