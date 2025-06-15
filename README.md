@@ -6,8 +6,8 @@ Currently, I am seeking an internship position to apply my skills, gain meaningf
 
 🛠️ Technologies & Tools
 
-Languages: C++, HTML, CSS, Bootstrap
-Tools: Figma, Git, Visual Studio, MS Office (Word, PowerPoint)
+Languages: C++, HTML, CSS, Bootstrap , PHP , javascript , React
+Tools: Figma, Git, Visual Studio, MS Office (Word, PowerPoint) , 
 📫 How to Reach Me
 
 Email: [musa39078@gmail.com]
