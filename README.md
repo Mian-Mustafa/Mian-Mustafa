@@ -31,4 +31,4 @@ Exploring Node.js and MongoDB to strengthen my full-stack development capabiliti
 📫 How to Reach Me
 Email: musa39078@gmail.com
 GitHub: [github.com/Mian-Mustafa ](https://github.com/Mian-Mustafa)
-LinkedIn: linkedin.com/in/yourprofile (Add your LinkedIn if available)
+LinkedIn: https://www.linkedin.com/in/ghulam-mustafa-3a45582aa/
