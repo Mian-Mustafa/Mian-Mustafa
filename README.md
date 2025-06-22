@@ -1,15 +1,34 @@
-Hi there, I'm Ghulam Mustafa 👋
-
+👋 Hi, I'm Ghulam Mustafa
 🚀 About Me
-I am a Computer Science student in my fourth semester with a strong foundation in C++ (DSA + OOP) and a passion for frontend development and UI/UX design. I have experience designing interactive interfaces using Figma and developing software solutions that combine functionality with clean design. I am also proficient in preparing professional presentations and documents using MS Word and PowerPoint.
-Currently, I am seeking an internship position to apply my skills, gain meaningful exposure to new technologies, and contribute to exciting projects.
+I'm a passionate Computer Science student with a strong foundation in Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOP). My interests lie in frontend development and UI/UX design, where I blend creativity with code to craft seamless user experiences.
 
-🛠️ Technologies & Tools
+I have hands-on experience using Figma to design user interfaces and developing responsive, interactive web applications. I'm also proficient in preparing professional presentations and documents using Microsoft Word and PowerPoint.
 
-Languages: C++, HTML, CSS, Bootstrap , PHP , javascript , React
-Tools: Figma, Git, Visual Studio, MS Office (Word, PowerPoint) , 
-📫 How to Reach Me
+Currently, I’m seeking an internship opportunity where I can apply my knowledge, collaborate with professionals, and gain exposure to real-world development workflows and cutting-edge technologies.
 
-Email: [musa39078@gmail.com]
+🛠️ Skills & Technologies
+Languages:
+C++, HTML5, CSS3, JavaScript, PHP, SQL
+
+Frontend:
+Bootstrap, React.js
+
+Design & Prototyping:
+Figma, Adobe XD (basic)
+
+Tools & Platforms:
+Visual Studio, Git & GitHub, XAMPP, MS Office (Word, PowerPoint), Canva
+
+Database:
+MySQL
+
+Soft Skills:
+Team Collaboration, Problem-Solving, Presentation Skills, Time Management
+
 🌱 Currently Learning
-I’m currently expanding my skills in [a new programming language, technology, or concept].
+Exploring Node.js and MongoDB to strengthen my full-stack development capabilities.
+
+📫 How to Reach Me
+Email: musa39078@gmail.com
+GitHub: github.com/Mian-Mustafa (Update with your actual GitHub URL)
+LinkedIn: linkedin.com/in/yourprofile (Add your LinkedIn if available)
