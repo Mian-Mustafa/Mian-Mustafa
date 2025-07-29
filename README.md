@@ -8,7 +8,7 @@ Currently, I’m seeking an internship opportunity where I can apply my knowledg
 
 🛠️ Skills & Technologies
 Languages:
-C++, HTML5, CSS3, JavaScript, PHP, SQL
+C++, HTML5, CSS3, JavaScript, Python , PHP, SQL
 
 Frontend:
 Bootstrap, React.js
