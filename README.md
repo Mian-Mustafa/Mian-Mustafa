@@ -24,6 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mian-Mustafa&icon=9&color=11)](https://visitcount.itsvg.in)
 
-![asd](https://github.com/user-attachments/assets/cc76862a-c794-4a53-9c2b-4abc750fdd33)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
