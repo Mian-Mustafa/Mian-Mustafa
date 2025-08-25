@@ -24,6 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mian-Mustafa&icon=9&color=11)](https://visitcount.itsvg.in)
 
-
+## 🌐 Certificates:
+![Techver](https://github.com/user-attachments/assets/b80310af-b67e-4f3c-8621-33dff0d43ecf)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
