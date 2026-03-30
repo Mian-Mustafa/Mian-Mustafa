@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
 <h3 align="center">A passionate Ai/Ml Researcher From Pakistan.</h3>
 
-<p align="left"> <img src="https://github.com/Mian-Mustafa/Mian-Mustafa/blob/main/mian.png" alt="mian-mustafa" /> </p>
+<p align="center"> 
+  <img src="https://github.com/Mian-Mustafa/Mian-Mustafa/blob/main/mian.png" alt="mian-mustafa" height="200" width="200" /> 
+</p>
 
 
 
