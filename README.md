@@ -1,42 +1,75 @@
-
-<h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
-<h3 align="center">A passionate Ai/Ml Researcher From Pakistan.</h3>
-
-<p align="center"> 
-  <img src="https://github.com/Mian-Mustafa/Mian-Mustafa/blob/main/mian.png" alt="mian-mustafa" height="200" width="200" /> 
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ghulam Mustafa — AI / ML researcher. Animated neural network with flowing cyan and violet signals." />
 </p>
 
+<h1 align="center">Ghulam Mustafa</h1>
+<p align="center"><strong>AI / ML Researcher · Developer · Curious by default</strong><br />Exploring intelligent systems and building useful tools from Pakistan.</p>
 
-
-- 🔭 I’m currently working on [Tool Website For Monatization Purpose](https://github.com/Mian-Mustafa)
-
-- 🌱 I’m currently learning **Deep Learning , Ai Core Concepts , NLP Research**
-
-- 👯 I’m looking to collaborate on [Breast-Cancer-Classification-Using-SVM](https://github.com/Mian-Mustafa/Breast-Cancer-Classification-Using-SVM)
-
-- 🤝 I’m looking for help in advancement with [Deep Learning project , Voice Cmd "jarvis""](https://github.com/Mian-Mustafa/JARVIS--Voice-Command-Detection--Python)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mian-Mustafa](https://github.com/Mian-Mustafa)
-
-- 📫 How to reach me **mustafa39078@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ghulammustafa92/](https://www.linkedin.com/in/ghulammustafa92/)
-
-- ⚡ Fun fact **https://www.linkedin.com/in/ghulammustafa92/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/musa39078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/musa39078" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ghulam-mustafa-3a45582aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ghulam-mustafa-3a45582aa/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ghulam.mustafa.699004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ghulam.mustafa.699004" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mian_mustafa92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mian_mustafa92/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@codegenic-804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codegenic-804" height="30" width="40" /></a>
-<a href="https://discord.gg/CwdvpJvC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CwdvpJvC" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:mustafa39078@gmail.com"><img src="https://img.shields.io/badge/Email-LET'S_TALK-22d3ee?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117" alt="Email Mustafa" /></a>
+  <a href="https://www.linkedin.com/in/ghulam-mustafa-3a45582aa/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-a78bfa?style=for-the-badge&amp;labelColor=0d1117" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Mian-Mustafa?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE-22d3ee?style=for-the-badge&amp;logo=github&amp;labelColor=0d1117" alt="Explore my repositories" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### `01 / about me`
 
+<img align="right" src="./mian.png" alt="Ghulam Mustafa" width="150" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mian-mustafa&" alt="mian-mustafa" /></p>
+I explore how machine learning can turn data into useful experiences. My interests span **deep learning**, **natural language processing**, and **voice-driven applications**.
+
+- **Building** → web tools with a focus on monetization.
+- **Learning** → deep learning, core AI concepts, and NLP research.
+- **Collaborating** → breast cancer classification using SVM.
+- **Seeking input** → deep learning projects and my JARVIS voice-command project.
+
+<br clear="both" />
+
+### `02 / project spotlight`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 Breast Cancer Classification</h3>
+      <p>Exploring breast cancer classification with support vector machines.</p>
+      <p><code>Machine Learning</code> <code>SVM</code> <code>Classification</code></p>
+      <a href="https://github.com/Mian-Mustafa/Breast-Cancer-Classification-Using-SVM"><strong>Explore the project ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ JARVIS Voice Commands</h3>
+      <p>Exploring voice-command detection and interactions with Python.</p>
+      <p><code>Python</code> <code>Voice Commands</code> <code>Automation</code></p>
+      <a href="https://github.com/Mian-Mustafa/JARVIS--Voice-Command-Detection--Python"><strong>Explore the project ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+### `03 / technical toolkit`
+
+| Focus | Languages, frameworks & tools |
+| :--- | :--- |
+| **🧠 AI & data** | Python · TensorFlow · scikit-learn · pandas · Seaborn · MATLAB |
+| **🌐 Web development** | JavaScript · React · Node.js · Django · PHP · HTML · CSS · Tailwind CSS · Bootstrap |
+| **📱 Mobile & hardware** | Flutter · Dart · Android · Java · C++ · Arduino |
+| **🗃️ Databases & cloud** | PostgreSQL · MySQL · MongoDB · Microsoft SQL Server · Firebase · AWS |
+| **🛠️ Workflow & design** | Git · Linux · Cypress · Figma |
+
+### `04 / current trajectory`
+
+```text
+  EXPLORE                 EXPERIMENT               BUILD
+  AI foundations    ───▶  ML classification  ───▶  Useful web tools
+  NLP research      ───▶  Voice commands     ───▶  JARVIS
+                 learn · test · refine · repeat
+```
+
+### `05 / find me online`
+
+[LinkedIn](https://www.linkedin.com/in/ghulam-mustafa-3a45582aa/) · [X](https://x.com/musa39078) · [YouTube / Codegenic](https://www.youtube.com/@codegenic-804) · [Instagram](https://www.instagram.com/mian_mustafa92/) · [Facebook](https://www.facebook.com/ghulam.mustafa.699004) · [Discord](https://discord.gg/CwdvpJvC)
+
+Interested in AI, ML, or a useful tool we could build together? **[Let's connect →](mailto:mustafa39078@gmail.com)**
+
+---
+
+<p align="center"><samp>LEARN → EXPERIMENT → BUILD → ITERATE</samp><br /><sub>Ghulam Mustafa · Pakistan</sub></p>
